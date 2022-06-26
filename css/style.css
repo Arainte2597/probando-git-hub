@@ -1,0 +1,25 @@
+h1{
+    font-size: 50px;
+}
+header nav ul li{
+    display: inline-block;
+    font-size: 30px;
+}
+header{
+    background-color: red;
+}
+main{
+    background-color: blue;
+}
+main p{
+    font-size: 20px;
+    color: yellow;
+}
+footer p{
+    font-size: 30px;
+    color: deeppink;
+
+}
+footer{
+    background-color: black;
+}
