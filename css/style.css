@@ -1,5 +1,6 @@
 h1{
     font-size: 50px;
+    text-align: center;
 }
 header nav ul li{
     display: inline-block;
